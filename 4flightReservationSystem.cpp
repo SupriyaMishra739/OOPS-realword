@@ -19,7 +19,6 @@ public:
     {
         passengerName = n;
         flightNumber = num;
-        totalPassenger++;
     }
 
     static void gettotalPassenger()
